@@ -11,10 +11,10 @@
   <a href="https://github.com/R0YV0VA/Vinbat-be">Back-End</a> <p></p>
   <a href="https://github.com/R0YV0VA/Vinbat-fe">Front-End</a>
   <h2>Pre-Publish Images:</h2>
-  <img src="https://user-images.githubusercontent.com/34351850/236023649-90dcaa49-5326-4fa9-8ad0-a4129faf707a.png" alt="first" style="width: 1000px; height: 500px" />
-  <img src="https://user-images.githubusercontent.com/34351850/236024620-78421477-a96d-42e3-99ac-53fe874d0b5d.png" alt="second" style="width: 1000px; height: 500px" />
-  <img src="https://user-images.githubusercontent.com/34351850/236025327-b447f493-6c48-4317-ae91-0989880837ba.png" alt="third" style="width: 1000px; height: 500px" />
-  <img src="https://user-images.githubusercontent.com/34351850/236025659-69adab23-0926-4d07-b829-ba0508fd4a89.png" alt="fourth" style="width: 1000px; height: 500px" />
+  <img src="https://user-images.githubusercontent.com/34351850/236023649-90dcaa49-5326-4fa9-8ad0-a4129faf707a.png" alt="first" style="width: 1000px; height: 450px" />
+  <img src="https://user-images.githubusercontent.com/34351850/236024620-78421477-a96d-42e3-99ac-53fe874d0b5d.png" alt="second" style="width: 1000px; height: 450px" />
+  <img src="https://user-images.githubusercontent.com/34351850/236025327-b447f493-6c48-4317-ae91-0989880837ba.png" alt="third" style="width: 1000px; height: 450px" />
+  <img src="https://user-images.githubusercontent.com/34351850/236025659-69adab23-0926-4d07-b829-ba0508fd4a89.png" alt="fourth" style="width: 1000px; height: 450px" />
 </div>
 
 
